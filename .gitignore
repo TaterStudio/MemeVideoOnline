@@ -1,0 +1,17 @@
+bin/
+obj/
+MemeVideoOnline/bin
+MemeVideoOnline/obj
+MemeVideoOnline.Droid/bin
+MemeVideoOnline.Droid/obj
+MemeVideoOnline.iOS/bin
+MemeVideoOnline.iOS/obj
+MemeVideoOnline.Mac/bin
+MemeVideoOnline.Mac/obj
+MemeVideoOnline.WinUI/bin
+MemeVideoOnline.WinUI/obj
+SharedLibrary/bin
+SharedLibrary/obj
+/packages/
+riderModule.iml
+/_ReSharper.Caches/

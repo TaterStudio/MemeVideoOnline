@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Shell
+    x:Class="MemeVideoOnline.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MemeVideoOnline"
+    Shell.FlyoutBehavior="Locked"
+    Title="MemeVideoOnline">
+        <ShellContent
+            Title="主页"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" />
+        <ShellContent Title="分类"></ShellContent>
+        <ShellContent Title="百科"></ShellContent>
+        <ShellContent Title="我"></ShellContent>
+        <ShellContent Title="下载"></ShellContent>
+        <ShellContent Title="设置"></ShellContent>
+        <ShellContent Title="关于"
+                      ContentTemplate="{DataTemplate local:AboutPage}"
+                      Route="AboutPage">
+        </ShellContent>
+</Shell>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeVideoOnline", "MemeVideoOnline\MemeVideoOnline.csproj", "{594CD36F-87F5-49D2-9E3B-603AFDB99D16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeVideoOnline.WinUI", "MemeVideoOnline.WinUI\MemeVideoOnline.WinUI.csproj", "{A44641BC-1B6A-421F-81B4-9C6C9785B94F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeVideoOnline.Droid", "MemeVideoOnline.Droid\MemeVideoOnline.Droid.csproj", "{4BD86EEE-5741-48B5-BDD6-71BF59A4AD1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{F8BA01AB-D07D-400D-9725-732CB9DB211A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{594CD36F-87F5-49D2-9E3B-603AFDB99D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594CD36F-87F5-49D2-9E3B-603AFDB99D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594CD36F-87F5-49D2-9E3B-603AFDB99D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594CD36F-87F5-49D2-9E3B-603AFDB99D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44641BC-1B6A-421F-81B4-9C6C9785B94F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A44641BC-1B6A-421F-81B4-9C6C9785B94F}.Debug|Any CPU.Build.0 = Debug|x86
+		{A44641BC-1B6A-421F-81B4-9C6C9785B94F}.Release|Any CPU.ActiveCfg = Release|x86
+		{A44641BC-1B6A-421F-81B4-9C6C9785B94F}.Release|Any CPU.Build.0 = Release|x86
+		{4BD86EEE-5741-48B5-BDD6-71BF59A4AD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD86EEE-5741-48B5-BDD6-71BF59A4AD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD86EEE-5741-48B5-BDD6-71BF59A4AD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD86EEE-5741-48B5-BDD6-71BF59A4AD1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8BA01AB-D07D-400D-9725-732CB9DB211A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BA01AB-D07D-400D-9725-732CB9DB211A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BA01AB-D07D-400D-9725-732CB9DB211A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BA01AB-D07D-400D-9725-732CB9DB211A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
